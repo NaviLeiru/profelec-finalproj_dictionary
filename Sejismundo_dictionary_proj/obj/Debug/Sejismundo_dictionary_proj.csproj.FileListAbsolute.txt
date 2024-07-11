@@ -1,0 +1,13 @@
+C:\Users\Ivan\source\repos\Sejismundo_dictionary_proj\Sejismundo_dictionary_proj\bin\Debug\Sejismundo_dictionary_proj.exe.config
+C:\Users\Ivan\source\repos\Sejismundo_dictionary_proj\Sejismundo_dictionary_proj\bin\Debug\Sejismundo_dictionary_proj.exe
+C:\Users\Ivan\source\repos\Sejismundo_dictionary_proj\Sejismundo_dictionary_proj\bin\Debug\Sejismundo_dictionary_proj.pdb
+C:\Users\Ivan\source\repos\Sejismundo_dictionary_proj\Sejismundo_dictionary_proj\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ivan\source\repos\Sejismundo_dictionary_proj\Sejismundo_dictionary_proj\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ivan\source\repos\Sejismundo_dictionary_proj\Sejismundo_dictionary_proj\obj\Debug\Sejismundo_dictionary_proj.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\Sejismundo_dictionary_proj\Sejismundo_dictionary_proj\obj\Debug\Sejismundo_dictionary_proj.Form1.resources
+C:\Users\Ivan\source\repos\Sejismundo_dictionary_proj\Sejismundo_dictionary_proj\obj\Debug\Sejismundo_dictionary_proj.Properties.Resources.resources
+C:\Users\Ivan\source\repos\Sejismundo_dictionary_proj\Sejismundo_dictionary_proj\obj\Debug\Sejismundo_dictionary_proj.csproj.GenerateResource.cache
+C:\Users\Ivan\source\repos\Sejismundo_dictionary_proj\Sejismundo_dictionary_proj\obj\Debug\Sejismundo_dictionary_proj.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Sejismundo_dictionary_proj\Sejismundo_dictionary_proj\obj\Debug\Sejismun.C8167A0A.Up2Date
+C:\Users\Ivan\source\repos\Sejismundo_dictionary_proj\Sejismundo_dictionary_proj\obj\Debug\Sejismundo_dictionary_proj.exe
+C:\Users\Ivan\source\repos\Sejismundo_dictionary_proj\Sejismundo_dictionary_proj\obj\Debug\Sejismundo_dictionary_proj.pdb
